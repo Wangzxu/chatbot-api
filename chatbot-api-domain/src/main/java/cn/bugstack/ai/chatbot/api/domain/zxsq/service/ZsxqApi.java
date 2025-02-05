@@ -63,7 +63,7 @@ public class ZsxqApi implements IZsxqApi {
         AnswerReq answerReq = new AnswerReq(new ReqData(textWithNewline));
         String paramJson = JSON.toJSONString(answerReq);
 //        System.out.println(paramJson);
-        System.out.println(paramJson);
+//        System.out.println(paramJson);
 
         StringEntity stringEntity = new StringEntity(paramJson, ContentType.create("application/json", "UTF-8"));
 
