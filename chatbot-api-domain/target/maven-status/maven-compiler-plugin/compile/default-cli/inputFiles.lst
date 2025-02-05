@@ -1,0 +1,14 @@
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\Talk.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\Owner.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\service\ZsxqApi.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\ChatbotApiDomainApplication.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\req\AnswerReq.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\IZsxqApi.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\res\AnswerRes.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\res\RespData.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\UserSpecific.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\req\ReqData.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\Topics.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\aggregates\UnCommentsQuestionsAggregates.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\Group.java
+F:\java_dev\projects\chatbot-api\chatbot-api-domain\src\main\java\com\ai\chatbotapidomain\model\vo\ShowComments.java

@@ -1,0 +1,14 @@
+com\ai\chatbotapidomain\model\req\AnswerReq.class
+com\ai\chatbotapidomain\model\vo\Group.class
+com\ai\chatbotapidomain\IZsxqApi.class
+com\ai\chatbotapidomain\model\vo\UserSpecific.class
+com\ai\chatbotapidomain\model\vo\Topics.class
+com\ai\chatbotapidomain\model\vo\ShowComments.class
+com\ai\chatbotapidomain\model\vo\Talk.class
+com\ai\chatbotapidomain\service\ZsxqApi.class
+com\ai\chatbotapidomain\model\res\AnswerRes.class
+com\ai\chatbotapidomain\model\res\RespData.class
+com\ai\chatbotapidomain\ChatbotApiDomainApplication.class
+com\ai\chatbotapidomain\model\aggregates\UnCommentsQuestionsAggregates.class
+com\ai\chatbotapidomain\model\vo\Owner.class
+com\ai\chatbotapidomain\model\req\ReqData.class
